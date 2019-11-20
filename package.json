@@ -1,0 +1,24 @@
+{
+  "name": "advanced",
+  "version": "1.0.0",
+  "description": "Nodejs Advanced concepts",
+  "main": "1st.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paragk05/NodejsAdvanced.git"
+  },
+  "author": "Parag Khandalkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paragk05/NodejsAdvanced/issues"
+  },
+  "homepage": "https://github.com/paragk05/NodejsAdvanced#readme"
+}
